@@ -1,7 +1,7 @@
 name: flutter_map_gesture_drawing
 description: "Flutter package for gesture-based loop drawing on maps"
 version: 0.0.1
-homepage:
+repository: https://github.com/kotrotko/flutter_map_gesture_drawing
 
 environment:
   sdk: ^3.8.1

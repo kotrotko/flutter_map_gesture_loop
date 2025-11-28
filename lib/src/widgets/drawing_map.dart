@@ -170,7 +170,7 @@ class _DrawingMapState extends State<DrawingMap> {
       children: [
         TileLayer(
           urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-          userAgentPackageName: 'com.example.map_gesture_loop',
+          userAgentPackageName: 'com.github.kotrotko.flutter_map_gesture_drawing',
         ),
         PolylineLayer(
           polylines: [

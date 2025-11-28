@@ -8,12 +8,12 @@ A Flutter package for gesture-based loop drawing on interactive maps using touch
 ## 📱 Screenshots
 
 ### Manually Closed Loop
-<img src="https://user-images.githubusercontent.com/your-username/manually-closed-loop.png" alt="Manually closed loop drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/kotrotko/manually-closed-loop.png" alt="Manually closed loop drawing" width="300"/>
 
 *User draws a path and manually closes the loop by connecting back to the starting point*
 
 ### Automatically Closed Loop  
-<img src="https://user-images.githubusercontent.com/your-username/automatically-closed-loop.png" alt="Automatically closed loop drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/kotrotko/automatically-closed-loop.png" alt="Automatically closed loop drawing" width="300"/>
 
 *System automatically closes the loop when user finishes drawing gesture*
 
@@ -314,8 +314,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Issues and Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/your-username/flutter_map_gesture_drawing/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/your-username/flutter_map_gesture_drawing/discussions)
+- **Bug Reports**: [GitHub Issues](https://github.com/kotrotko/flutter_map_gesture_drawing/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/kotrotko/flutter_map_gesture_drawing/discussions)
 - **Documentation**: [API Documentation](https://pub.dev/documentation/flutter_map_gesture_drawing)
 
 ## 📚 Additional Resources
